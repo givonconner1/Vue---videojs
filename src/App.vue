@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <div id="my-video">
-    </div>
+
+<vid-player></vid-player>
   </div>
 </template>
 
